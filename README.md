@@ -44,8 +44,6 @@
 
 - 使用限制
 
-- 产品术语
-
  [购买指南](ugn/Document/Purchase.md)
 
  [操作手册](ugn/Document/Guide/Guide.md)
@@ -56,3 +54,4 @@
 
  [联系我们](ugn/Document/Connection.md)
 
+ [产品术语](/ugn/Document/glossary.md)
