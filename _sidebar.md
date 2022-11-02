@@ -3,7 +3,7 @@
 * [概览](/ugn/README.md)
 *   [云联网介绍](ugn/Document/Introduction.md)
 *   [购买指南](ugn/Document/Purchase.md)
-*  [操作手册](ugn/Document/Guide.md)
+*  [操作手册](ugn/Document/Guide/Guide.md)
    * 快速入门
    * 操作指南
    * 最佳实践
