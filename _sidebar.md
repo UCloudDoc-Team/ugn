@@ -2,17 +2,7 @@
 
 * [概览](/ugn/README.md)
 *   [云联网介绍](ugn/Document/Introduction.md)
-   * 产品概述
-   * 产品架构
-   * 产品优势
-   * 应用场景
-   * 使用限制
 *   [购买指南](ugn/Document/Purchase.md)
-   * 计费文档
-   * 固定带宽
-   * 增强95计费
-   * 流量计费
-   * 欠费回收逻辑
 *  [操作手册](ugn/Document/Guide.md)
    * 快速入门
    * 操作指南
