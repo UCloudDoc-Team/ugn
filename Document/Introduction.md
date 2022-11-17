@@ -71,11 +71,11 @@
 
 基于SR-TE技术实现用户业务的灵活路径选择，用户可在控制台上进行选择：低时延、通用线路、低成本；控制台上通过选择**S（Source）--->D（Destination）**地域，然后选择具体的调度路径；
 
-1. **通用线路（IGP）        ： S（Source）--->D（Destination）** 沿着最短路径进行数据转发
+- **通用线路（IGP）        ： S（Source）--->D（Destination）** 沿着最短路径进行数据转发
 
-1. **低时延线路（Delay）： S（Source）--->D（Destination）** 沿着最低时延路径进行数据转发
+- **低时延线路（Delay）： S（Source）--->D（Destination）** 沿着最低时延路径进行数据转发
 
-1. **低成本线路（TCO）   ： S（Source）--->D（Destination）** 沿着最优成本路径进行数据转发
+- **低成本线路（TCO）   ： S（Source）--->D（Destination）** 沿着最优成本路径进行数据转发
 
 **服务质量**
 
