@@ -16,10 +16,6 @@
 
  [操作手册](ugn/Document/Guide/Guide.md)
 
- [API文档](ugn/Document/API.md)
-
  [常见问题](ugn/Document/Q&A.md)
-
- [联系我们](ugn/Document/Connection.md)
 
  [产品术语](/ugn/Document/glossary.md)
