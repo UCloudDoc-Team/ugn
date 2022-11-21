@@ -1,6 +1,6 @@
 # 概览
 
- [产品介绍](ugn/Document/Introduction.md)
+[产品介绍](ugn/Document/Introduction.md)
 
 -   产品概述
 
@@ -8,9 +8,8 @@
 
 - 产品优势
 
-- 应用场景
-
-- 使用限制
+-   应用场景
+-   使用限制
 
 [购买指南](ugn/Document/Purchase.md)
 
