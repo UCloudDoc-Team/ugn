@@ -2,7 +2,7 @@
 
 ## **计费项**
 
-![计费项1](../images/计费项1.png)
+<img src="../images/计费项-9255966.png" alt="计费项" style="zoom: 200%;" />
 
 
 
