@@ -2,7 +2,7 @@
 
 ## **计费项**
 
-<img src="../images/计费项-9255966.png" alt="计费项" style="zoom: 200%;" />
+<img src="../images/计费项2.png" alt="计费项2" style="zoom:150%;" />
 
 
 
