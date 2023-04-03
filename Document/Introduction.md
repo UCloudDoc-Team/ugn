@@ -18,10 +18,8 @@ VPC与云下私有站点之间的内网互联（云联网二期，敬请期待�
 *  多处私有站点/办公室与云上资VPC资源互联互通
 *  跨境/跨地域的办公、业务数据同步
 
-<<<<<<< Updated upstream
 ![云联网概览](https://user-images.githubusercontent.com/108066029/229448865-8e74514a-fb82-4834-bfb4-1f25e6ee59b4.png)
-=======
->>>>>>> Stashed changes
+
 
 
 ### 云联网组成部分
@@ -142,7 +140,8 @@ UCloud骨干网络遍布全球主要的国家和地域，二十三个节点可�
 
 ### 产品模型
 
-![UGN产品模型](images/UGN文档/UGN产品模型.jpg)
+![UGN产品模型](assets/UGN%E4%BA%A7%E5%93%81%E6%A8%A1%E5%9E%8B.jpg)
+
 
 - 整合用户网、混合云、云网络等实现底层统一组网，统一产品；
 
