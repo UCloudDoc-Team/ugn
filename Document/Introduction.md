@@ -18,7 +18,10 @@ VPC与云下私有站点之间的内网互联（云联网二期，敬请期待�
 *  多处私有站点/办公室与云上资VPC资源互联互通
 *  跨境/跨地域的办公、业务数据同步
 
+<<<<<<< Updated upstream
 ![云联网概览](https://user-images.githubusercontent.com/108066029/229448865-8e74514a-fb82-4834-bfb4-1f25e6ee59b4.png)
+=======
+>>>>>>> Stashed changes
 
 
 ### 云联网组成部分
