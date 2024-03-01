@@ -4,16 +4,18 @@
 
 -   产品概述
 
-- 产品架构
+- 产品功能
 
 - 产品优势
 
--   应用场景
--   使用限制
+-   应用限制
+-   技术架构
 
 [购买指南](ugn/Document/Purchase.md)
 
-[操作手册](ugn/Document/Guide/Guide.md)
+[操作指南](ugn/Document/Guide/Guide.md)
+
+最佳实践
 
 [常见问题](ugn/Document/Q&A.md)
 

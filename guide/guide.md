@@ -1,0 +1,69 @@
+# 操作指南
+
+## 通过API新建云联网
+
+云联网支持通过API创建
+
+1. 进入UAPI 云联网创建界面，
+
+   【控制台】--【监控与运维】--【开放API】--【网络】--【云联网】
+
+   ![API创建](D:\ina.li\云联网\20240228\images\API创建.jpg)
+
+2. 创建云联网实例
+
+   点击创建云联网的【详情】，并输入云联网实例名字等相应参数，点击【发送请求】完成创建
+
+   也可在此完成网络实例关联，输入相关网络实例参数即可。
+
+   ![1709206049787](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1709206049787.png)
+
+## 管理云联网实例
+
+云联网管理界面路径：【全部产品】--【网络】--【云联网】--【云联网实例】TAB页；
+
+![img](https://ucloud-llk.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2VmN2RiNmUyMzljNWUxYzc2NWI4OGI3ZjY3MjA0ZjJfeVJkV1F1QzhGelVjMGxHRUxWbFdpdG9ZN1ZtZ1NyQzRfVG9rZW46Rkh6UmJvbVdUb0RKQ3F4OXFEZmNYWEp6bnBiXzE3MDkyMDU1NTg6MTcwOTIwOTE1OF9WNA)
+
+此页面支持操作：
+
+- 编辑和修改云联网实例名称和备注
+- 新增云联网实例
+- 删除云联网实例，删除前需要将所有关联网络实例解绑
+- 进入单云联实例管理所关联的网络实例和带宽包，详见管理网络实例，管理带宽包
+
+## 管理网络实例
+
+网络实例管理界面路径：【云联网实例】TAB页--单资源【云联网实例】
+
+![img](https://ucloud-llk.feishu.cn/space/api/box/stream/download/asynccode/?code=NzMwM2ZiNjQ5NjYxNjYxZDM2N2JkMzI4MmNiZTFkY2JfNmFUdEFGeEw3Rml1MXB5Ykc1YkRhckFCdUZtam0zaFJfVG9rZW46TkVoMmJteVdvb05tcXp4S2lMcWNQSXV1bkFlXzE3MDkyMDU1NTg6MTcwOTIwOTE1OF9WNA)
+
+此页面支持操作：
+
+- 关联新网络实例
+- 解除关联现有的网络实例，可批量选择
+
+## 管理带宽包
+
+关联网络实例后，系统会赠送5kbps的默认带宽包；完成带宽包购买操作后，默认带宽包自动回收。带宽包管理有两个入口，分别如下:
+
+单云联网实例带宽包：【云联网实例】TAB页--单资源【详情】--【带宽包】
+
+![img](https://ucloud-llk.feishu.cn/space/api/box/stream/download/asynccode/?code=MDZjYTkzZWVmNWRlNzYyYmY4MzRmM2ViMGJhYzEwMzJfdnV6bDJ3UDhBMldJNGlPdnRWNjNYYWliVW4zeTd4WFFfVG9rZW46SXFURGJtZkxLb0RuV0Z4YmF6SmNyVkJLbnpoXzE3MDkyMDU1NTg6MTcwOTIwOTE1OF9WNA)
+
+此页面支持操作：
+
+- 购买带宽包
+- 删除带宽包，删除带宽包后，系统自动恢复5kbps的默认带宽包，直至网络实例解绑
+- 调整带宽大小
+- 点击【监控】查看单带宽包出入向流量监控信息
+- 更改带宽包计费方式，每月仅可进行一次计费方式更换，次月零点生效，生效前可以取消变更
+- 续费带宽包
+
+全部带宽包管理：【全部产品】--【网络】--【带宽包】TAB页面
+
+![img](https://ucloud-llk.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjRkNGQ1OTJiMDg5MDVmMmZkZTU0YWNmOTkxNTA5YjZfcXRSakFVNWVkbVRCY1FsaGVzNDlUbGFxYXY5bU0yUkFfVG9rZW46T0V6cWJSQWYwb3VNZ1V4TXFpTWNFclNzbk9lXzE3MDkyMDU1NTg6MTcwOTIwOTE1OF9WNA)
+
+此页面支持操作：
+
+- 点击【监控】查看单带宽包出入向流量监控信息
+- 续费带宽包
