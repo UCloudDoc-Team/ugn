@@ -5,7 +5,7 @@
   - [产品概述](ugn/intro/description.md)
   - [产品功能](ugn/intro/function.md)
   - [产品优势](ugn/intro/advantages.md)
-  - [应用限制](ugn/intro/limit.md)
+  - [使用限制](ugn/intro/limit.md)
   - [技术架构](ugn/intro/architecture.md)
 
 - 购买指南
