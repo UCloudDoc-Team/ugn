@@ -16,13 +16,13 @@
 
    也可在此完成网络实例关联，输入相关网络实例参数即可。
 
-   ![1709206049787](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1709206049787.png)
+   ![1709206049787](D:\ina.li\云联网\20240228\images\API创建云联网实例)
 
 ## 管理云联网实例
 
 云联网管理界面路径：【全部产品】--【网络】--【云联网】--【云联网实例】TAB页；
 
-![img](https://ucloud-llk.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2VmN2RiNmUyMzljNWUxYzc2NWI4OGI3ZjY3MjA0ZjJfeVJkV1F1QzhGelVjMGxHRUxWbFdpdG9ZN1ZtZ1NyQzRfVG9rZW46Rkh6UmJvbVdUb0RKQ3F4OXFEZmNYWEp6bnBiXzE3MDkyMDU1NTg6MTcwOTIwOTE1OF9WNA)
+![管理云联网实例](D:\ina.li\云联网\20240228\images\管理云联网实例.png)
 
 此页面支持操作：
 
@@ -35,7 +35,7 @@
 
 网络实例管理界面路径：【云联网实例】TAB页--单资源【云联网实例】
 
-![img](https://ucloud-llk.feishu.cn/space/api/box/stream/download/asynccode/?code=NzMwM2ZiNjQ5NjYxNjYxZDM2N2JkMzI4MmNiZTFkY2JfNmFUdEFGeEw3Rml1MXB5Ykc1YkRhckFCdUZtam0zaFJfVG9rZW46TkVoMmJteVdvb05tcXp4S2lMcWNQSXV1bkFlXzE3MDkyMDU1NTg6MTcwOTIwOTE1OF9WNA)
+![管理网络实例](D:\ina.li\云联网\20240228\images\管理网络实例.png)
 
 此页面支持操作：
 
@@ -48,7 +48,7 @@
 
 单云联网实例带宽包：【云联网实例】TAB页--单资源【详情】--【带宽包】
 
-![img](https://ucloud-llk.feishu.cn/space/api/box/stream/download/asynccode/?code=MDZjYTkzZWVmNWRlNzYyYmY4MzRmM2ViMGJhYzEwMzJfdnV6bDJ3UDhBMldJNGlPdnRWNjNYYWliVW4zeTd4WFFfVG9rZW46SXFURGJtZkxLb0RuV0Z4YmF6SmNyVkJLbnpoXzE3MDkyMDU1NTg6MTcwOTIwOTE1OF9WNA)
+![单实例带宽包界面](D:\ina.li\云联网\20240228\images\单实例带宽包界面.png)
 
 此页面支持操作：
 
@@ -61,7 +61,7 @@
 
 全部带宽包管理：【全部产品】--【网络】--【带宽包】TAB页面
 
-![img](https://ucloud-llk.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjRkNGQ1OTJiMDg5MDVmMmZkZTU0YWNmOTkxNTA5YjZfcXRSakFVNWVkbVRCY1FsaGVzNDlUbGFxYXY5bU0yUkFfVG9rZW46T0V6cWJSQWYwb3VNZ1V4TXFpTWNFclNzbk9lXzE3MDkyMDU1NTg6MTcwOTIwOTE1OF9WNA)
+![全部带宽包界面](D:\ina.li\云联网\20240228\images\全部带宽包界面.png)
 
 此页面支持操作：
 
