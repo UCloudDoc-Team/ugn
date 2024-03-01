@@ -1,6 +1,6 @@
 # 技术架构
 
-### 产品模型
+## 产品模型
 
 ![image](https://user-images.githubusercontent.com/108066029/229451959-22028355-48da-4c16-bf0a-6c27aa0f0a0c.png)
 
