@@ -72,5 +72,3 @@
 ![image](https://user-images.githubusercontent.com/108066029/229450045-1c04cc07-c8c1-4b49-947e-fb44cd3e6e58.png)
 
 
-
-1. 9. 
