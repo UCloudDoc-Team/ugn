@@ -2,7 +2,7 @@
 
 ## 产品模型
 
-![image](https://user-images.githubusercontent.com/108066029/229451959-22028355-48da-4c16-bf0a-6c27aa0f0a0c.png)
+![UGN产品模型](D:\ina.li\云联网\20240827\images\UGN产品模型.png)
 
 
 - 整合用户私有站点、托管网络以及云上VPC网络等，实现底层统一组网，统一产品；
@@ -19,12 +19,12 @@
 
 ## 技术实现
 
-![image](https://user-images.githubusercontent.com/108066029/229449868-ee294aba-39ab-497c-911b-9f107db624a4.png)
+![UGN技术实现](D:\ina.li\云联网\20240827\images\UGN技术实现.png)
 
 
 - **云网融合**
 
-每个地域网元由业务网关（VPC网关、POPGW、托管网关、专线网关）和跨域网关（RPG）组成的一个整体网元结构，实现用户公有云、SD-WAN网络灵活组网。
+每个地域网元由业务网关（VPC网关、UWAN网关、托管网关、专线网关）和跨域网关组成的一个整体网元结构，实现用户公有云、SD-WAN网络、托管业务、专线业务灵活组网。
 
 - **流量工程**
 
