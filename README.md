@@ -26,7 +26,7 @@
     - [网络实例](ugn/guide/instance/net instance.md)
   - 带宽包管理
     - [购买带宽包](ugn/guide/bwpackage/package buy.md)
-    - [管理带宽包](ugn/guide/bwpackage/package edit.md)
+    - [管理带宽包](ugn/guide/bwpackage/package_edit.md)
     - [删除带宽包](ugn/guide/bwpackage/package del.md)
   - 路由管理
     - [路由策略简介](ugn/guide/flow/flow intro.md)
