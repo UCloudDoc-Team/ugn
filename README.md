@@ -22,16 +22,16 @@
 - 操作指南
 
   - 实例管理
-    - [云联网实例](ugn/guide/instance/ugn instance.md)
-    - [网络实例](ugn/guide/instance/net instance.md)
+    - [云联网实例](ugn/guide/instance/ugn_instance.md)
+    - [网络实例](ugn/guide/instance/net_instance.md)
   - 带宽包管理
-    - [购买带宽包](ugn/guide/bwpackage/package buy.md)
+    - [购买带宽包](ugn/guide/bwpackage/package_buy.md)
     - [管理带宽包](ugn/guide/bwpackage/package_edit.md)
-    - [删除带宽包](ugn/guide/bwpackage/package del.md)
+    - [删除带宽包](ugn/guide/bwpackage/package_del.md)
   - 路由管理
-    - [路由策略简介](ugn/guide/flow/flow intro.md)
-    - [路由策略](ugn/guide/flow/flow strategy.md)
-    - [路由表](ugn/guide/flow/flow map.md)
+    - [路由策略简介](ugn/guide/flow/flow_intro.md)
+    - [路由策略](ugn/guide/flow/flow_strategy.md)
+    - [路由表](ugn/guide/flow/flow_map.md)
 
 - [最佳实践](ugn/bestpractice/bestpractice.md)
 
