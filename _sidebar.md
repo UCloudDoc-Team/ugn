@@ -1,6 +1,7 @@
 
 
 - 动态与公告
+  
   - [新功能发布记录](ugn/newfunctions/newfunctions.md)
 - 产品介绍
   
@@ -17,14 +18,19 @@
 - 操作指南
   - 实例管理
     - [云联网实例](ugn/guide/instance/ugn instance.md)
+    
+    [网络实例](ugn/guide/instance/net instance.md)
+    
     - [网络实例](ugn/guide/instance/net instance.md)
+    
   - 带宽包管理
-    - [购买带宽包](ugn\guide\bwpackage\package buy.md )
-    - [管理带宽包]( ugn\guide\bwpackage\package edit.md )
-    - [删除带宽包]( ugn\guide\bwpackage\package del.md )
+    - [购买带宽包](ugn\guide\bwpackage\package buy.md)
+    - [管理带宽包]( ugn\guide\bwpackage\package edit.md)
+    - [删除带宽包]( ugn\guide\bwpackage\package del.md)
+    
   - 路由管理
-    - [路由策略简介]( ugn\guide\flow\flow intro )
-    - [路由策略]( ugn\guide\flow\flow strategy.md )
-    - [路由表]( ugn\guide\flow\flow map.md )
+    - [路由策略简介]( ugn\guide\flow\flow intro.md)
+    - [路由策略]( ugn\guide\flow\flow strategy.md)
+    - [路由表]( ugn\guide\flow\flow map.md)
 - [最佳实践](ugn/bestpractice/bestpractice.md)
 - [常见问题](ugn/faq/faq.md)
