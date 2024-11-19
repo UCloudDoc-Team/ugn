@@ -14,7 +14,7 @@
 ### 开通前检查
 
 1. 确认广州、香港、洛杉矶三个可用区已有VPC实例，在“项目一”分别为“VPC-GZ”、“VPC-HK”、“VPC-LA”
-2. 业务涉及跨境，确认已经完成跨境申请，详见**[跨境专线合规检查](https://docs.ucloud.cn/crossborder/README)**
+2. 业务涉及跨境，确认已经完成跨境申请，详见[跨境专线合规检查](https://docs.ucloud.cn/crossborder/README)
 3. 规划互通网段，确保网段之间没有重叠
 
 ### **步骤一：创建云联网实例并关联实例**
