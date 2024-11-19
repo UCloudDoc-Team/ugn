@@ -10,7 +10,7 @@
 
 2. 如您将要开通跨境云联网带宽包，请先确认完成跨境申请，详见[跨境专线合规检查](https://docs.ucloud.cn/crossborder/README)
 
-   ![跨境检查](D:\ina.li\云联网\20241028\images\跨境检查.png)
+   ![跨境检查](images\跨境检查1.png)
 
 ## 同账号网络实例互通
 
