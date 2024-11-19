@@ -26,7 +26,8 @@
 
    在控制台上点击【全部产品】--【网络】--【云联网】--【云联网实例】TAB页
 
-![创建云联网实例A](ugn/images/创建云联网实例A.png)
+![创建云联网实例A](https://github.com/user-attachments/assets/c25b6ac8-315a-4c07-b201-72da238d0283)
+
 
 2. 新建云联网实例
 
