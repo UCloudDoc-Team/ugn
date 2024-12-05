@@ -87,5 +87,5 @@
 
 ## 路由表
 
-云联网的路由表，用于展示单云联网实例内的路由情况，详见[路由表](ugn\guide\flow\flow map.md)
+云联网的路由表，用于展示单云联网实例内的路由情况，策略生效后可在此处核实。详见[路由表](https://docs.ucloud.cn/ugn/guide/flow/flow_map)
 
