@@ -27,6 +27,7 @@
     - [路由策略简介](ugn/guide/flow/flow_intro.md)
     - [路由策略](ugn/guide/flow/flow_strategy.md)
     - [路由表](ugn/guide/flow/flow_map.md)
+  - [跨账号管理](ugn/guide/cross-account.md)
 - [最佳实践](ugn/bestpractice/bestpractice.md)
 - [常见问题](ugn/faq/faq.md)
 
