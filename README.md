@@ -19,7 +19,7 @@
 
 - 快速入门
   - [同账号网络实例互通](ugn/fast/fast.md)
-  - [跨账号网络实例互通](ugn/fast/fast-cross-account.md)
+  - [跨账号网络实例互通](ugn/fast/cross-account.md)
 
 - 操作指南
 
