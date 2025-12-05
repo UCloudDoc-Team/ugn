@@ -17,7 +17,8 @@
   - [欠费回收](ugn/buy/recycle.md)
   - [退款说明](ugn/buy/refund)
 
-- [快速入门](ugn/fast/fast.md)
+- 快速入门
+- [同账号网络实例互通](ugn/fast/fast.md)
 
 - 操作指南
 
