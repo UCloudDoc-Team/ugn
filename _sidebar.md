@@ -14,7 +14,12 @@
   - [计费规则](ugn/buy/charge.md)
   - [欠费回收](ugn/buy/recycle.md)
   - [退款说明](ugn/buy/refund)
-- [快速入门](ugn/fast/fast.md)
+
+- 快速入门
+  - [同账号网络实例互通](ugn/fast/fast.md)
+  - [跨账号网络实例互通](ugn/fast/cross-account.md)
+  - [UDPN网络一键升级（敬请期待）](ugn/fast/UDPNtoUGN.md)
+
 - 操作指南
   
   - 实例管理
@@ -28,6 +33,7 @@
     - [路由策略简介](ugn/guide/flow/flow_intro.md)
     - [路由策略](ugn/guide/flow/flow_strategy.md)
     - [路由表](ugn/guide/flow/flow_map.md)
+  - [跨账号管理](ugn/guide/cross-account.md)
 - [最佳实践](ugn/bestpractice/bestpractice.md)
 - [常见问题](ugn/faq/faq.md)
 
